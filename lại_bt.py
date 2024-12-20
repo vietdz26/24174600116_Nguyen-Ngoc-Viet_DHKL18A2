@@ -11,7 +11,7 @@ for i in range(n):
 #bài 3
 #khởi tạo hai số đầu tiên trong dãy fibonacci
 a = 0
-b = 1 
+ 
 # in ra 50 số đầu tiên trong dãy fibonacci 
 for _ in range(50):
     print(a)
